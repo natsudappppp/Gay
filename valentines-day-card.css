@@ -33,9 +33,7 @@ body {
   margin: 0 25px;
   background-color: #f5f6d6;
 }
-.envelope .envelope__card {
-  visibility: hidden;
-}
+
 .envelope .envelope__card.open {
   -webkit-animation: cardJump .5s ease .5s forwards;
   -o-animation: cardJump .5s ease .5s forwards;
