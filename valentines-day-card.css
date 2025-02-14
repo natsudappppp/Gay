@@ -37,8 +37,8 @@ body {
   visibility: hidden;
 }
 
-.envelope.open .envelope__card {
-  visibility: visible;
+.enveloper__card-text {
+  display: none;
 }
 
 .envelope .envelope__card.open {
