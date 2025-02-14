@@ -36,11 +36,6 @@ body {
 .envelope .envelope__card {
   visibility: hidden;
 }
-
-.enveloper__card-text {
-  display: none;
-}
-
 .envelope .envelope__card.open {
   -webkit-animation: cardJump .5s ease .5s forwards;
   -o-animation: cardJump .5s ease .5s forwards;
